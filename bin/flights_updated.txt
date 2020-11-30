@@ -1,0 +1,13 @@
+2
+@Flight
+@F_info
+AC123,Ottawa,London,17:00h,Airbus
+@F_R_Seats
+1_A,1_C,1_I,2_A,2_I,3_A,7_B,
+@@
+@Flight
+@F_info
+AC789,Auckland,Sydney,08:00h,Boeing
+@F_R_Seats
+1_A,1_B,1_G,2_A,2_G,5_B,5_C,5_D,5_E,5_F,6_B,
+@@

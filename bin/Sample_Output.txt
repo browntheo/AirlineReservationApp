@@ -1,0 +1,735 @@
+*****Welcome to Airline Reservation Application*****
+Which airline would you like to travel with? (Select a number or write "quit" if you want to quit the application!)
+1: SimpleWay Airline
+2: SmartLine Airline
+1
+Welcome to the SimpleWay Airline reservation system
+Which flight would you like to reserve a seat on?(choose a number)
+1: Flight: AC123 from: Ottawa to: London departing: 17:00h
+2: Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+1
+Booking seats for Flight: AC123 from: Ottawa to: London departing: 17:00h
+     A      B      C      D      E      F      G      H      I      
+  1 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  2 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  2 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 1A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 1I is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 2A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 2I is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 3A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+3
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class MIDDLE seat at: 1B is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+2
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 1C is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+4
+Goodbye.
+Which airline would you like to travel with? (Select a number or write "quit" if you want to quit the application!)
+1: SimpleWay Airline
+2: SmartLine Airline
+2
+Welcome to the SmartLine Airline reservation system
+Which flight would you like to reserve a seat on?(choose a number)
+1: Flight: AC123 from: Ottawa to: London departing: 17:00h
+2: Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+1
+Booking seats for Flight: AC123 from: Ottawa to: London departing: 17:00h
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+2
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+3
+     A      B      C      D      E      F      G      H      I      
+  1 [W X ] [M X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+  3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  4 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  5 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  6 [W _ ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W _ ]
+  7 [w _ ] [m X ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  8 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+  9 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 10 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 11 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+ 12 [w _ ] [m _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [m _ ] [w _ ]
+
+Seat reservation: Economy class MIDDLE seat at: 7B is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+4
+Goodbye.
+Which airline would you like to travel with? (Select a number or write "quit" if you want to quit the application!)
+1: SimpleWay Airline
+2: SmartLine Airline
+2
+Welcome to the SmartLine Airline reservation system
+Which flight would you like to reserve a seat on?(choose a number)
+1: Flight: AC123 from: Ottawa to: London departing: 17:00h
+2: Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+2
+Booking seats for Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+     A      B      C      D      E      F      G      
+  1 [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  2 [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  2 [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 1A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 1G is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 2A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class WINDOW seat at: 2G is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 2F is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A _ ] [M _ ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 2E is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A _ ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class MIDDLE seat at: 2D is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A _ ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 2C is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 2B is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A _ ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 1F is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M _ ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 1E is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A _ ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class MIDDLE seat at: 1D is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A _ ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 1C is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: First class AISLE seat at: 1B is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a X ] [m X ] [a X ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: Economy class MIDDLE seat at: 3D is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+4
+Goodbye.
+Which airline would you like to travel with? (Select a number or write "quit" if you want to quit the application!)
+1: SimpleWay Airline
+2: SmartLine Airline
+1
+Welcome to the SimpleWay Airline reservation system
+Which flight would you like to reserve a seat on?(choose a number)
+1: Flight: AC123 from: Ottawa to: London departing: 17:00h
+2: Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+2
+Booking seats for Flight: AC789 from: Auckland to: Sydney departing: 08:00h
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w _ ] [a _ ] [a X ] [m X ] [a X ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w X ] [a X ] [a X ] [m X ] [a X ] [a _ ] [w _ ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: Economy class WINDOW seat at: 3A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+  4 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: Economy class WINDOW seat at: 3G is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+1
+Which seat type?
+1. WINDOW
+2. AISLE
+3. MIDDLE
+1
+     A      B      C      D      E      F      G      
+  1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+  3 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+  4 [w X ] [a X ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  5 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  6 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  7 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  8 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+  9 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+ 10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ]
+
+Seat reservation: Economy class WINDOW seat at: 4A is reserved
+1. Reserve First Class
+2. Reserve Economy Class
+3. Show Seating Map
+4. Quit
+4
+Goodbye.
+Which airline would you like to travel with? (Select a number or write "quit" if you want to quit the application!)
+1: SimpleWay Airline
+2: SmartLine Airline
+quit
